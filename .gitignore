@@ -1,0 +1,9 @@
+vendor/
+node_modules/
+storage/uploads/*
+!storage/uploads/.gitkeep
+config/env.php
+.DS_Store
+.idea/
+.vscode/
+
